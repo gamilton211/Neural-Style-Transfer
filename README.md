@@ -1,17 +1,6 @@
 # Neural-Style-Transfer
 PyTorch implementation of [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Leon A. Gatys, et al.
 
-<div align='center'>
-  <img src='img/udnie.jpg' height="256px">
-  <img src='img/chicago_resized.jpg' height="256px">
-  <img src='img/last.jpg' height="256px">
-</div>
-
-<div align='center'>
-  <img src='img/mosaic.jpg' height="256px" width="256.jpg" >
-  <img src='img/chicago_resized.jpg' height="256px">
-  <img src='img/last1.jpg' height="256px">
-</div>
 
 ### Implementation Details
 - The hyperparameters are same as used in the paper.
